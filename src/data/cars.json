@@ -1,0 +1,244 @@
+[
+  {
+    "id": "car_001",
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2023,
+    "price": 2500000,
+    "category": "Sedan",
+    "images": [
+      "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800",
+      "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=400",
+    "specifications": {
+      "engine": "2.5L 4-Cylinder",
+      "transmission": "CVT",
+      "fuelType": "Petrol",
+      "mileage": "15 km/l",
+      "seatingCapacity": 5,
+      "color": "Silver"
+    },
+    "features": ["Air Conditioning", "ABS", "Airbags", "Power Windows", "Bluetooth"],
+    "description": "The Audi A4 combines luxury, performance, and efficiency in a sophisticated package. With its premium interior, advanced technology, and engaging driving dynamics, it's the perfect executive sedan.",
+    "inStock": true,
+    "rating": 4.5
+  },
+  {
+    "id": "car_002",
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2023,
+    "price": 2200000,
+    "category": "Sedan",
+    "images": [
+      "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800",
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=400",
+    "specifications": {
+      "engine": "2.0L 4-Cylinder",
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "mileage": "16 km/l",
+      "seatingCapacity": 5,
+      "color": "White"
+    },
+    "features": ["Air Conditioning", "ABS", "Airbags", "Power Steering", "USB Charging"],
+    "description": "The Honda Accord represents the perfect balance of comfort, reliability, and value. With its spacious interior, smooth ride, and advanced safety features, it's ideal for families and professionals.",
+    "inStock": true,
+    "rating": 4.3
+  },
+  {
+    "id": "car_003",
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2023,
+    "price": 4500000,
+    "category": "Sports",
+    "images": [
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=400",
+    "specifications": {
+      "engine": "3.5L V6",
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "mileage": "12 km/l",
+      "seatingCapacity": 7,
+      "color": "Black"
+    },
+    "features": ["Air Conditioning", "ABS", "Airbags", "4WD", "Leather Seats", "Sunroof"],
+    "description": "The iconic American muscle car. The Ford Mustang delivers thrilling performance, head-turning style, and an exhilarating driving experience that continues to define the sports car segment.",
+    "inStock": true,
+    "rating": 4.4
+  },
+  {
+    "id": "car_004",
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2023,
+    "price": 5500000,
+    "category": "Luxury",
+    "images": [
+      "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=400",
+    "specifications": {
+      "engine": "2.0L Turbo",
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "mileage": "14 km/l",
+      "seatingCapacity": 5,
+      "color": "Blue"
+    },
+    "features": ["Air Conditioning", "ABS", "Airbags", "Leather Seats", "Navigation", "Premium Sound"],
+    "description": "The benchmark sports sedan. The BMW 3 Series delivers exceptional driving dynamics, luxurious interior, and cutting-edge technology in a perfectly balanced package.",
+    "inStock": true,
+    "rating": 4.7
+  },
+  {
+    "id": "car_005",
+    "brand": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": 2023,
+    "price": 5800000,
+    "category": "Luxury",
+    "images": [
+      "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=400",
+    "specifications": {
+      "engine": "2.0L Turbo",
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "mileage": "13 km/l",
+      "seatingCapacity": 5,
+      "color": "Silver"
+    },
+    "features": ["Air Conditioning", "ABS", "Airbags", "Leather Seats", "Sunroof", "Premium Sound", "Navigation"],
+    "description": "Luxury and refinement meet performance. The Mercedes-Benz C-Class offers a premium driving experience with elegant styling and advanced safety features.",
+    "inStock": true,
+    "rating": 4.6
+  },
+  {
+    "id": "car_006",
+    "brand": "Volkswagen",
+    "model": "Tiguan",
+    "year": 2023,
+    "price": 2800000,
+    "category": "SUV",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=400",
+    "specifications": {
+      "engine": "1.4L Turbo",
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "mileage": "18 km/l",
+      "seatingCapacity": 5,
+      "color": "Red"
+    },
+    "features": ["Air Conditioning", "ABS", "Airbags", "Bluetooth", "USB Charging"],
+    "description": "The iconic hot hatch. The Volkswagen Golf offers German engineering, practical design, and engaging driving dynamics that have made it a benchmark in its class.",
+    "inStock": true,
+    "rating": 4.4
+  },
+  {
+    "id": "car_007",
+    "brand": "Audi",
+    "model": "Q5",
+    "year": 2023,
+    "price": 6200000,
+    "category": "SUV",
+    "images": [
+      "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?w=800"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?w=800",
+    "specifications": {
+      "engine": "2.0L Turbo",
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "mileage": "12 km/l",
+      "seatingCapacity": 5,
+      "color": "White"
+    },
+    "features": ["Air Conditioning", "ABS", "Airbags", "4WD", "Leather Seats", "Navigation", "Premium Sound"],
+    "description": "Premium compact SUV with quattro all-wheel drive. The Audi Q5 combines luxury, performance, and versatility in a beautifully designed package.",
+    "inStock": true,
+    "rating": 4.5
+  },
+  {
+    "id": "car_008",
+    "brand": "Nissan",
+    "model": "370Z",
+    "year": 2022,
+    "price": 2300000,
+    "category": "Sports",
+    "images": [
+      "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=400",
+    "specifications": {
+      "engine": "2.5L 4-Cylinder",
+      "transmission": "CVT",
+      "fuelType": "Petrol",
+      "mileage": "15 km/l",
+      "seatingCapacity": 5,
+      "color": "Gray"
+    },
+    "features": ["Air Conditioning", "ABS", "Airbags", "Power Windows", "Bluetooth", "Backup Camera"],
+    "description": "Comfortable and reliable sedan with modern styling. The Nissan Altima offers great value for money with its spacious interior and smooth ride.",
+    "inStock": true,
+    "rating": 4.2
+  },
+  {
+    "id": "car_009",
+    "brand": "Hyundai",
+    "model": "cayenne",
+    "year": 2023,
+    "price": 3200000,
+    "category": "SUV",
+    "images": [
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=400",
+    "specifications": {
+      "engine": "2.0L 4-Cylinder",
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "mileage": "14 km/l",
+      "seatingCapacity": 5,
+      "color": "Blue"
+    },
+    "features": ["Air Conditioning", "ABS", "Airbags", "Power Windows", "Bluetooth", "Backup Camera", "USB Charging"],
+    "description": "Modern compact SUV with bold styling and advanced features. The Hyundai Tucson offers excellent value with its comprehensive warranty and modern technology.",
+    "inStock": true,
+    "rating": 4.3
+  },
+  {
+    "id": "car_010",
+    "brand": "Kia",
+    "model": "Sportage",
+    "year": 2023,
+    "price": 3100000,
+    "category": "SUV",
+    "images": [
+      "https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=800"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=400",
+    "specifications": {
+      "engine": "2.0L 4-Cylinder",
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "mileage": "13 km/l",
+      "seatingCapacity": 5,
+      "color": "Red"
+    },
+    "features": ["Air Conditioning", "ABS", "Airbags", "Power Windows", "Bluetooth", "Backup Camera", "USB Charging", "Sunroof"],
+    "description": "Stylish and feature-packed compact SUV. The Kia Sportage offers modern design, comfortable interior, and Kia's industry-leading warranty coverage.",
+    "inStock": true,
+    "rating": 4.4
+  }
+]
