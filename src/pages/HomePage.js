@@ -155,25 +155,20 @@ const HomePage = () => {
       <section className="newsletter">
         <div className="container">
           <div className="newsletter-content">
-            <div className="newsletter-text">
-              <h2>Stay Updated</h2>
-              <p>Get the latest car deals, automotive tips, and industry news delivered to your inbox.</p>
-            </div>
+            <h2>Stay Updated</h2>
+            <p>Subscribe to our newsletter for the latest updates and events.</p>
             <form className="newsletter-form">
               <div className="newsletter-input-group">
                 <input
                   type="email"
-                  placeholder="Enter your email address"
+                  placeholder="Enter your email"
                   className="newsletter-input"
                   required
                 />
-                <button type="submit" className="btn btn-primary">
+                <button type="submit" className="newsletter-submit-btn">
                   Subscribe
                 </button>
               </div>
-              <p className="newsletter-disclaimer">
-                By subscribing, you agree to our Privacy Policy and consent to receive updates from our company.
-              </p>
             </form>
           </div>
         </div>
